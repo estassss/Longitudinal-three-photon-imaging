@@ -33,7 +33,7 @@ Vessel masks were generated using the DeepVess pipeline:
 Haft-Javaherian M., Fang L., Muse V., Schaffer C.B., Nishimura N., Sabuncu M.R. “Deep convolutional neural networks for segmenting 3D in vivo multiphoton images of vasculature in Alzheimer disease mouse models.” *PLOS ONE* 14(3): e0213539, 2019. doi:10.1371/journal.pone.0213539
 
 ## Data summary
-The data is accessible on DataDryad and contains TIFF image stacks (16-bit) acquired with three-photon excitation at 1340 nm.  
+The data is accessible on DataDryad (https://doi.org/10.5061/dryad.wh70rxx2j) and contains TIFF image stacks (16-bit) acquired with three-photon excitation at 1340 nm.  
 - XY pixel size: 0.98 µm  
 - Z-step: 5 µm (vessels/plaques), 10 µm (GFP neurons)  
 - Labels: Texas Red (vessels), methoxy-XO4 (plaques), GFP (neurons), THG when present  
