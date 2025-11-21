@@ -16,8 +16,7 @@ This repository contains the analysis code used to process three-photon microsco
 - Figure 4 – SBR.py  
 - Figure 5 – Volumes.py  
 - Figure 6 – Violin Plot.py  
-- Figure Sup. A (a) - Motion.py
-- Figure Sup. A (b) - Power Calibration.py
+- Figure Sup. A (a) & (b) - Power Calibration.py
 
 ### Preprocessing and segmentation
 - Normalise_Vessels.py  
